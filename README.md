@@ -16,11 +16,11 @@ This project involved designing, configuring, and troubleshooting a Raspberry Pi
 - <b>Windows 11</b> (21H2)
 - <b>Raspbian OS</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/wFoCxd3" height="80%" width="80%" alt="test screen shot"/>
+<img src="https://i.imgur.com/EIUOg9q.png" height="80%" width="80%" alt="test screen shot"/>
 <br />
 <br />
 Select the disk:  <br/>
