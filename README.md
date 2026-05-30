@@ -1,20 +1,20 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>KineoPiRouter - Raspberry Pi Router Home Lab</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project involved designing, configuring, and troubleshooting a Raspberry Pi 5 as a functional network router and wireless access point (WAP). The Raspberry Pi was connected directly to a modem through Ethernet and configured to provide internet access to wireless clients through a custom Wi-Fi network. Throughout the project, I gained hands-on experience with Linux networking, wireless networking, routing, NAT, DHCP, DNS, NetworkManager, and wireless troubleshooting.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Bash Shell Scripting</b>
+- <b>NetworkManager</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (21H2)
+- <b>Raspbian OS</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
