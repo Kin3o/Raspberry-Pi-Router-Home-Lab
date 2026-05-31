@@ -42,12 +42,6 @@ Internet / Upstream Router
           |
     Client Devices
 
-## Step 1: Update Raspberry Pi OS
-
-Run the following command to update the package list and upgrade installed packages:
-
-```bash
-sudo apt update && sudo apt upgrade -y
 ```
 
 ## Step 1: Update Raspberry Pi OS
