@@ -1,4 +1,4 @@
-# KineoPiRouter - Raspberry Pi Router Lab
+# KineoPiRouter - Raspberry Pi Router on Raspbian OS Lab
 
 ## Description
 This lab documents how I configured a Raspberry Pi 5 running Raspberry Pi OS to function as a home lab router. The goal of this project was to learn basic router configuration, IP forwarding, DHCP, NAT, firewall rules, SSH administration, and network troubleshooting.
